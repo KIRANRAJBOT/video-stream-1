@@ -1,12 +1,7 @@
 youtube_search
-
 ffmpeg-python
-
 youtube-search-python==1.4.9
-yt-dlp==2021.11.10.1
-
-
-
+yt-dlp
 dnspython
 gitpython
 aiofiles
@@ -18,11 +13,10 @@ motor
 psutil
 future
 wget
-
 TgCrypto
 pyrogram
 py-tgcalls==0.8.1
 asyncio
 youtube-search-python
-yt-dlp
+yt-dl
 python-dotenv
